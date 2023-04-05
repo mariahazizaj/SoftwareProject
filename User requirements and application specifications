@@ -1,0 +1,70 @@
+Requirements
+
+User Requirements:
+1.User-Friendly Interface: The platform should have a user-friendly interface that allows store owners to easily navigate and manage their products. 
+The platform should be intuitive and easy to use for users of all skill levels.
+2.Product Management: The platform should provide a robust product management system that allows store owners to add, edit, and delete products. 
+The platform should also allow store owners to manage product inventory levels, track sales, and view product analytics.
+3.Inventory Management: The system should allow store managers to view and manage the store's inventory, including adding new products, updating product information (e.g., price, quantity, etc.), and removing products that are no longer available.
+4.Reporting and Analytics: The system should allow store managers to generate reports and view analytics on store performance, such as sales data, inventory levels, and customer behavior
+5.User Roles and Permissions: The system should support multiple user roles, such as administrators and employees, with different levels of access and permissions to the system's features and functionalities.
+6.Product Pricing: The system should allow store managers to set and adjust product prices based on factors such as market demand, competition, and inventory levels.
+7.Security: The system should be secure and protect sensitive data such as customer information and financial data from unauthorized access or breach.
+8.Scalability: The system should be able to handle a growing number of products and customers as the store expands.
+9.User authentication and authorization: The system should have a secure login process that requires user credentials, and it should have two types of user roles (administrators and employees) with different access levels and permissions.
+
+Development Environment and application specifications
+This automated platform will be developed using PHP/OOP and MySQL Database.
+It allows the management to store their product. 
+The following will be used to develop this user-friendly features and functionalities:
+
+1.	XAMPP as my local webserver that has a PHP and Apache Maven project
+2.	PHP Language
+3.	MySQL Database
+4.	HTML
+5.	CSS
+6.	JavaScript
+7.	jQuery
+8.	Ajax
+9.	Bootstrap
+
+Programming language: The system will be developed in PHP, a popular server-side scripting language used for web development.
+
+Database management system: The system will use MySQL, a popular relational database management system, to store and manage data.
+
+User interface: The system will have a web-based user interface that can be accessed from a range of devices and browsers. The user interface will be designed to be intuitive and easy to use.
+
+User authentication and authorization: The system will require user authentication and authorization to ensure that only authorized users can access the system. There will be two types of users: administrators and employees, each with their own set of permissions and access levels.
+
+Inventory management: The system will allow the store management to manage their inventory, including adding, editing, and deleting products. The system will also track inventory levels and provide alerts when stock levels fall below a certain threshold.
+
+Security and data protection: The system will have robust security measures in place to protect user data and prevent unauthorized access. This could include encryption, user permissions, and regular backups.
+
+Testing and debugging: The system will be thoroughly tested and debugged to ensure that it is functioning as intended and free of errors.
+
+Maintenance and support: The system will be regularly maintained and updated to ensure that it remains secure and functional. Support will be provided to users in case of issues or questions.
+
+Features
+
+1.	Login Page
+2.	Home Page
+3.	Categories 
+3.1.	Add New Category
+3.2.	List All Categories
+3.3.	View Category Details
+3.4.	Update Category Details
+3.5.	Update Category Status
+3.6.	Delete Category
+4.	Manage Product
+4.1	Add New Product
+4.2	List All Products
+4.3	View Product Details
+4.4	Update Product Details
+4.5	Delete Product
+5	Manage User List 
+6	Manage Account Credentials
+Set Up Local Development Environment
+To run this system you must have downloaded and installed a local web server in our case XAMPP.
+
+
+
